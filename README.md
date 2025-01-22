@@ -1,1 +1,1 @@
-# Jan25
+This repo is just for practice purpose.
