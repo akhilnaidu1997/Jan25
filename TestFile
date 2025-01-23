@@ -1,6 +1,0 @@
-Hello all, How are you doing ?
-I am doing good, What is going with your course rightnow.
-#!/bin/bash
-mkdir NewDir
-cd NewDir
-touch file1 file2 file3
